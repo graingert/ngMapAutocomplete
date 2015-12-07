@@ -34,9 +34,9 @@ Include the required libraries
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
 ```
 
-Declare a dependency on the `ngAutocomplete` module
+Declare a dependency on the `ngMapAutocomplete` module
 ``` javascript
-var app = angular.module('myModule', ['ngAutocomplete']);
+var app = angular.module('myModule', ['ngMapAutocomplete']);
 ```
 
 Add the directive to a textbox
