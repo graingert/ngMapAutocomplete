@@ -1,8 +1,10 @@
 # ng-Map-Autocomplete
+A simple AngularJS directive for adding google places autocomplete to a textbox element. 
+
+![preview](examples/ngMapAutocomplete.gif)
 
 An actively maintained fork of Will Palahnuk's ng-Autocomplete that add functionalites and merges unanswered pull requests.
 
-A simple directive for adding google places autocomplete to a textbox element. 
 
 Updated to now use ng-model, should work much better in forms. Can now set an initial value using ng-model. Using the ng-model to set the textbox value does not trigger the autocomplete query.
 
