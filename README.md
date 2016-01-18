@@ -44,7 +44,7 @@ var app = angular.module('myModule', ['ngMapAutocomplete']);
 Add the directive to a textbox
 
 ``` javascript
-    <input type="text"  ng-autocomplete ng-model="autocomplete" options="options" details="details"/>
+    <input type="text"  ng-map-autocomplete ng-model="autocomplete" options="options" details="details"/>
 ```
 
 ## Documentation
