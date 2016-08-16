@@ -31,9 +31,10 @@ Install via bower
 bower install ng-map-autocomplete
 ```
 
-Include the required libraries 
+Include the required libraries
+*You can include your API key right here in the script URL*
 ```html
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false&key=xxx"></script>
 ```
 
 Declare a dependency on the `ngMapAutocomplete` module
