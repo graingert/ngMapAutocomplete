@@ -48,7 +48,6 @@
  *        types: '(cities)',
  *        country: 'ca'
  *    }
-<<<<<<< HEAD
 **/
 
 angular.module("ngMapAutocomplete", [])
