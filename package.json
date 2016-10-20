@@ -1,0 +1,31 @@
+{
+  "name": "ng-map-autocomplete",
+  "version": "0.0.1",
+  "description": " Google maps autocomplete directive for AngularJS",
+  "main": "src/ng-map-autocomplete.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iazi/ngMapAutocomplete.git"
+  },
+  "keywords": [
+    "ng-autocomplete",
+    "google",
+    "google",
+    "maps",
+    "maps",
+    "address",
+    "autocomplete"
+  ],
+  "author": "Joan-Diego Rodriguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iazi/ngMapAutocomplete/issues"
+  },
+  "homepage": "https://github.com/iazi/ngMapAutocomplete#readme"
+}
